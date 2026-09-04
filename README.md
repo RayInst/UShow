@@ -1,5 +1,6 @@
 # USHOW 3D UWB 定位与舞台追踪解算系统 (RTLS Host Engine)
 <img width="2560" height="1033" alt="e17d499f481153979912759d132d7e48" src="https://github.com/user-attachments/assets/9dca03ea-ef84-4766-9c22-a43659723318" />
+<img width="2560" height="1031" alt="a68d54e9f01384b955b020ac65323489" src="https://github.com/user-attachments/assets/6d0506fb-d9f7-4ce3-b30b-3d90b6203e3a" />
 
 [中文说明](#chinese-version) | [English](#english-version)
 
